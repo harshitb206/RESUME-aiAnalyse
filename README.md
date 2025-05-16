@@ -59,6 +59,7 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
    - Highlights strengths and weaknesses to refine resumes for better opportunities.
 
 ---
+![image](https://github.com/user-attachments/assets/6d55b58f-a6f7-47c7-bb75-e1fa974a51ba)
 
 
 ## 🙌 **Contributing**
